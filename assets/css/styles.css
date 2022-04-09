@@ -262,7 +262,7 @@ img {
 }
 
 .about__img {
-  justify-self: left;
+  justify-self: center;
 }
 
 .about__img img {
