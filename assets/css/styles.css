@@ -374,6 +374,7 @@ img {
   font-size: var(--normal-font-size);
   cursor: pointer;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 
